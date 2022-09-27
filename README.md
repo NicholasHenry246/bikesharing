@@ -1,5 +1,6 @@
 # Bikesharing
 ## Purpose
+The purpose of this study was to determine the feasibility of bike sharing in cities outside of New York. Tableau was use to create a story to determine what makes CitiBike successful in New York, and to consider what needs to be done for the service to be successful elsewhere.
 
 ## Results
 
@@ -35,7 +36,10 @@ Subscribers make up most of the riders and their day or preference for rides is 
 
 The results point to the Citibike service being most popular among men who ride the most on Thursdays and Fridays. In New York City five minutes in the most popular duration for a ride. Further analysis is needed to determine why females are not more active in this service.
 Two visualizations that may be considered for future analysis are:
-    * Top Locations using the start and end station names instead of the latitude and lontitude. This could give insight into why some locations are more popular.
+    
+    * Top Locations using the start and end station names instead of the latitude and lontitude. 
+      This could give insight into why some locations are more popular.
 
-    * Population barchart by gender and location to determine whether the level of usage by gender is due to population differences or personal preferences.
+    * Population barchart by gender and location to determine whether the level of usage by 
+      gender is due to population differences or personal preferences.
 
